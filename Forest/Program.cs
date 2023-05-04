@@ -1,0 +1,1 @@
+﻿new Forest.HedgehogsForestHistory().HistoryOfHedgehogs();
